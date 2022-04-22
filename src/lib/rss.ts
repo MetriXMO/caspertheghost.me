@@ -4,7 +4,7 @@ import fs from "node:fs/promises";
 import { getAllItems } from "./mdx";
 
 const OUT_FILE_PATH = "./public/rss.xml";
-const SITE_URL = "https://caspertheghost.me";
+const SITE_URL = "https://casper.dev";
 
 export async function generateRSSFeed() {
   try {

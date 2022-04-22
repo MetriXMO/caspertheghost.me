@@ -21,7 +21,7 @@ export default function BlogPost({ post }: { post: Post }) {
           title: pageTitle,
           description: pageDescription,
         }}
-        canonical={`https://caspertheghost.me/blog/${post.slug}`}
+        canonical={`https://casper.dev/blog/${post.slug}`}
         title={pageTitle}
         description={pageDescription}
         additionalMetaTags={[

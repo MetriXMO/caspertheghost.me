@@ -12,7 +12,7 @@ export const timeline: TimelineItem[] = [
     year: 2022,
     title: "Portfolio",
     text: "Wanted to refresh my portfolio a bit again. Added a new light theme and tons of improvements to my older blog posts.",
-    url: "https://caspertheghost.me",
+    url: "https://casper.dev",
     date: "January 2022",
   },
   {
@@ -32,7 +32,7 @@ export const timeline: TimelineItem[] = [
     year: 2021,
     title: "Created SnailyCADv4",
     text: "Re-creating SnailyCADv3 as SnailyCADv4 with tons of improvements and new features.",
-    url: "https://snailycad.caspertheghost.me",
+    url: "https://snailycad.casper.dev",
     date: "October 2021",
     full_date: "October 5, 2021",
   },
@@ -50,7 +50,7 @@ export const timeline: TimelineItem[] = [
     title: "React Redux -> MobX",
     text: "Rewrote notey.app to use MobX instead of Redux. A lot of boilerplate code gone 👏!",
     full_date: "August 18, 2021",
-    url: "https://notey.caspertheghost.me",
+    url: "https://notey.casper.dev",
   },
   {
     year: 2021,
@@ -112,7 +112,7 @@ export const timeline: TimelineItem[] = [
     date: "End March 2021",
     title: "notey.app",
     text: "Rewritten my notes application with next.js and TypeScript. It's so fast ⚡!",
-    url: "https://notey.caspertheghost.me",
+    url: "https://notey.casper.dev",
     full_date: "March 30, 2021",
   },
   {
@@ -120,7 +120,7 @@ export const timeline: TimelineItem[] = [
     date: "End March 2021",
     title: "Blog",
     text: "Created my custom blog to post ✨special✨ things!",
-    url: "https://caspertheghost.me/blog",
+    url: "https://casper.dev/blog",
     full_date: "March 27, 2021",
   },
   {
@@ -161,7 +161,7 @@ export const timeline: TimelineItem[] = [
     date: "October 2020",
     title: "Portfoliov3",
     text: "Rewritten and redesigned my portfolio in Next.js and TypeScript",
-    url: "https://github.com/dev-caspertheghost/caspertheghost.me",
+    url: "https://github.com/dev-caspertheghost/casper.dev",
     full_date: "October 24, 2020",
   },
   {
@@ -184,7 +184,7 @@ export const timeline: TimelineItem[] = [
     date: "August 2020",
     title: "Notey.app",
     text: "Working on another big project! Notes app to keep track of important things",
-    url: "https://notey.caspertheghost.me",
+    url: "https://notey.casper.dev",
     full_date: "August 16, 2020",
   },
   {

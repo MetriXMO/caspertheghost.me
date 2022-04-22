@@ -31,7 +31,7 @@ export default class extends Document {
           <link rel="mask-icon" href="/favicons//safari-pinned-tab.svg" color="#161b22" />
           <meta name="msapplication-TileColor" content="#161b22" />
           <meta property="og:type" content="website" />
-          <meta property="og:image" content="https://caspertheghost.me/icons/icon-128.png" />
+          <meta property="og:image" content="https://casper.dev/icons/icon-128.png" />
 
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:creator" content="@casper124578" />

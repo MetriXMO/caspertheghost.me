@@ -1,3 +1,3 @@
-# [caspertheghost.me](https://caspertheghost.me)
+# [casper.dev](https://casper.dev)
 
 ![Website mockup](./public/website_mock.png)

@@ -18,7 +18,7 @@ export default function About({ timelineData }: { timelineData: TimelineItem[] }
     <Layout>
       <NextSeo
         openGraph={{ title: pageTitle, description: pageDescription }}
-        canonical="https://caspertheghost.me/about"
+        canonical="https://casper.dev/about"
         title={pageTitle}
         description={pageDescription}
       />

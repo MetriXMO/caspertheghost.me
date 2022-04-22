@@ -16,7 +16,7 @@ export const projects: Project[] = [
         name: VIEW_CODE,
       },
       {
-        url: "https://snailycad.caspertheghost.me",
+        url: "https://snailycad.casper.dev",
         name: OPEN_PROJECT,
       },
     ],
@@ -32,7 +32,7 @@ export const projects: Project[] = [
       },
       {
         name: OPEN_PROJECT,
-        url: "https://ghostybot.caspertheghost.me",
+        url: "https://ghostybot.casper.dev",
       },
     ],
   },
@@ -46,7 +46,7 @@ export const projects: Project[] = [
       },
       {
         name: OPEN_PROJECT,
-        url: "https://notey.caspertheghost.me",
+        url: "https://notey.casper.dev",
       },
     ],
   },

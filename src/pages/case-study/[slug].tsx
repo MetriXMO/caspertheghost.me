@@ -21,7 +21,7 @@ export default function BlogPost({ caseStudy }: { caseStudy: Post }) {
           title: pageTitle,
           description: pageDescription,
         }}
-        canonical={`https://caspertheghost.me/case-study/${caseStudy.slug}`}
+        canonical={`https://casper.dev/case-study/${caseStudy.slug}`}
         title={pageTitle}
         description={pageDescription}
         additionalMetaTags={[

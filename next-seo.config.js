@@ -20,8 +20,8 @@ export const SEO = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://caspertheghost.me",
-    site_name: "caspertheghost.me",
+    url: "https://casper.dev",
+    site_name: "casper.dev",
     description,
     title,
   },
@@ -30,7 +30,7 @@ export const SEO = {
     site: "@site",
     cardType: "summary",
   },
-  canonical: "https://caspertheghost.me",
+  canonical: "https://casper.dev",
   defaultTitle: title,
   description,
   additionalMetaTags: [

@@ -17,7 +17,7 @@ export const BlogFooter = ({ post }: Props) => {
   const type = types[router.pathname as keyof typeof types];
 
   const GITHUB_REPO_LINK =
-    "https://github.com/Dev-CasperTheGhost/caspertheghost.me/edit/main/src/data";
+    "https://github.com/Dev-CasperTheGhost/casper.dev/edit/main/src/data";
   const link = `${GITHUB_REPO_LINK}/${type}/${post.slug}.mdx`;
 
   return (

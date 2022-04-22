@@ -1,6 +1,6 @@
 /* eslint-disable */
 module.exports = {
-  siteUrl: "https://caspertheghost.me",
+  siteUrl: "https://casper.dev",
   generateRobotsTxt: true,
   sitemapBaseFileName: "sitemap",
 };

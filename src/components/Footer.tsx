@@ -4,7 +4,7 @@ export const Footer = () => {
       <div className="flex flex-col sm:flex-row items-center justify-between w-full sm:h-40 max-w-4xl">
         <p className="text-center sm:text-left mb-5">
           Created by{" "}
-          <FooterLink href="https://github.com/dev-caspertheghost/caspertheghost.me">
+          <FooterLink href="https://github.com/dev-caspertheghost/casper.dev">
             CasperTheGhost
           </FooterLink>{" "}
           with ❤️

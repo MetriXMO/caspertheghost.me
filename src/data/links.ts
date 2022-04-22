@@ -4,7 +4,7 @@ export interface Link {
 }
 
 export const links: Link[] = [
-  { name: "This site", href: "https://caspertheghost.me/" },
+  { name: "This site", href: "https://casper.dev/" },
   { name: "Twitter", href: "https://twitter.com/casper124578" },
   { name: "GitHub", href: "https://github.com/dev-caspertheghost" },
   { name: "npm", href: "https://npmjs.com/~casper124578" },

@@ -11,7 +11,7 @@ import { SEO } from "../../next-seo.config.js";
 export default function App({ Component, pageProps }: AppProps) {
   return (
     <SSRProvider>
-      <ThemeProvider storageKey="caspertheghost.me_theme" attribute="class">
+      <ThemeProvider storageKey="casper.dev_theme" attribute="class">
         <DefaultSeo {...SEO} />
         <Nav />
         <Component {...pageProps} />

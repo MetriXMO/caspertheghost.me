@@ -12,7 +12,7 @@ export default function Links({ links }: Props) {
     <Layout>
       <NextSeo
         openGraph={{ title: "Links - Casper Iversen" }}
-        canonical="https://caspertheghost.me/links"
+        canonical="https://casper.dev/links"
         title="Links - Casper Iversen"
       />
 

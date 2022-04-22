@@ -18,7 +18,7 @@ export default function CodeSnippets({ snippets }: { snippets: Post[] }) {
           title: pageTitle,
           description: pageDescription,
         }}
-        canonical="https://caspertheghost.me/snippets"
+        canonical="https://casper.dev/snippets"
         title={pageTitle}
         description={pageDescription}
         additionalMetaTags={[

@@ -21,7 +21,7 @@ export default function BlogPost({ snippet }: { snippet: Post }) {
           title: pageTitle,
           description: pageDescription,
         }}
-        canonical={`https://caspertheghost.me/snippets/${snippet.slug}`}
+        canonical={`https://casper.dev/snippets/${snippet.slug}`}
         title={pageTitle}
         description={pageDescription}
         additionalMetaTags={[
