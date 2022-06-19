@@ -18,7 +18,7 @@ export const HeroSection = () => {
 
       <p className="max-w-3xl mt-8 text-neutral-800 dark:text-gray-300 md:text-xl">
         GIMO is an International Mathematical Olympiad-style mathematical contest held online for individuals 
-        where you will be given nearly 10 days work out the roblems and submit them within that time interval. Toknow more,check the about page.
+        where you will be given nearly 10 days work out the roblems and submit them within that time interval. To know more,check the about page.
         <Link href="/about">
           <a className="font-medium underline">Read more.</a>
         </Link>
