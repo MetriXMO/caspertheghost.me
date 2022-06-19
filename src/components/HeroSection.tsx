@@ -8,7 +8,7 @@ export const HeroSection = () => {
           GIMO <span className="hidden xs:inline">2022</span>
         </h1>
         <h2 className="mt-2 text-4xl font-medium sm:mt-5 sm:text-4xl md:text-5xl lg:text-6xl">
-          Online Math Conest, Year 2
+          Online Math Conest Year 2
         </h2>
       </div>
 
