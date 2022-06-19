@@ -13,7 +13,7 @@
     "project": "./tsconfig.json"
   },
   "rules": {
-    "unicorn/new-for-builtins": "off",
-    "unicorn/no-array-for-each": "off"
+    //"unicorn/new-for-builtins": "off",
+   // "unicorn/no-array-for-each": "off"
   }
 }
