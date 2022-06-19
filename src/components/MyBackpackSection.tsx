@@ -1,11 +1,10 @@
 export const MyBackpackSection = ({ myBackpack }: { myBackpack: [string, string[]][] }) => {
   return (
     <section id="skills">
-      <h1 className="section-title">My Backpack</h1>
+      <h1 className="section-title">GIMO 2022 Team</h1>
 
       <p className="my-4 text-neutral-800 dark:text-gray-300">
-        You can find the list of my top skills below. {"I'm"} also open to learn more frontend
-        related frameworks, libraries, languages, etc!
+        You can find our team here. Our team consists of multiple IMO contestants who have won gold, silver and bronze in IMO, some who are going to partcipate in IMO this year representing their country, MOP ers, USA(J)MO qualifiers and math enthusisats.
       </p>
 
       <div className="grid grid-cols-1 gap-1 sm:grid-cols-2 md:grid-cols-3">
