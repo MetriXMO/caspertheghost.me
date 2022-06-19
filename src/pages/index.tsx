@@ -4,7 +4,7 @@ import { MyBackpackSection } from "components/MyBackpackSection";
 import { GetStaticProps } from "next";
 import { FeaturedProjectsSection } from "components/FeaturedProjects";
 import { Project } from "types/Project";
-import { ContactSection } from "components/ContactSection";
+
 
 interface Props {
   projects: Project[];
@@ -17,7 +17,7 @@ export default function Home({ myBackpack, projects }: Props) {
       <HeroSection />
       <MyBackpackSection myBackpack={myBackpack} />
       <FeaturedProjectsSection projects={projects} />
-      <ContactSection />
+   
     </Layout>
   );
 }
