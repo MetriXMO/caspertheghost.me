@@ -21,5 +21,5 @@ export const myBackpack: [string, string[]][] = [
                "Arkan Manva, India" , "Vlad Spataru, Romania" , "Vedant Saini, India" ,
                "Mattedy" ,"Valentino Iversion" ,"Anand, India" ,"NJOY, India" ,"Sunaina Pati, India" ,"Justin Lee"  ]],
   
-  ["Other", ["Orestis Lignos, Greece", "Jimin Kim, Korea","Evan Chang", "Krishna Prothapragada, USA", "Andre Luis, Bolivia", "navi_09220114"]],
+  ["Other", ["Orestis Lignos, Greece", "Jimin Kim, Korea","Evan Chang", "Krishna Prothapragada, USA", "k12byda5h, Thailand", "Andre Luis, Bolivia", "navi_09220114"]],
 ];
