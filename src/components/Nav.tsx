@@ -1,6 +1,6 @@
 import * as React from "react";
 import { useRouter } from "next/router";
-import { Aops, Linkedin, List, Twitter, X } from "react-bootstrap-icons";
+import { Aops,  List,  X } from "react-bootstrap-icons";
 import classNames from "clsx";
 import { useViewport } from "lib/hooks/useViewport";
 import { useActiveNavItem } from "lib/hooks/useActiveNavItem";
