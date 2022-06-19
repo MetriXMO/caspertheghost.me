@@ -1,5 +1,4 @@
 
-import { Layout } from "components/Layout";
 import { GetStaticProps } from "next";
 import { TimelineItem } from "types/Timeline";
 import { Timeline } from "components/timeline/Timeline";
@@ -13,7 +12,7 @@ const pageDescription = "About GIMO";
     <Layout>
       <NextSeo
         openGraph={{ title: pageTitle, description: pageDescription }}
-        canonical="https://caspertheghost.me/about"
+        canonical=""
         title={pageTitle}
         description={pageDescription}
       />
