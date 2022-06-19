@@ -27,7 +27,7 @@ export default function About({ timelineData }: { timelineData: TimelineItem[] }
 
         <div className="max-w-3xl mt-5 text-neutral-800 dark:text-gray-200">
           <p>
-            Hello, I am Casper! {"I'm"} a <Age />
+            Hello, I am Casper! {"I'm"} a 
             -year-old programmer and student based in Belgium. I adore some building accessible,
             responsive and fast code. Furthermore, {"I'm"} also a big fan of open-source, I
             contribute to open-source as much as I can, I also have{" "}
