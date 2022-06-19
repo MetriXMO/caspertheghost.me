@@ -1,4 +1,4 @@
-import { NextSeo } from "next-seo";
+
 import Link from "next/link";
 import { Age } from "components/Age";
 import { Layout } from "components/Layout";
