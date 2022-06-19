@@ -1,5 +1,4 @@
 
-import Link from "next/link";
 import { Age } from "components/Age";
 import { Layout } from "components/Layout";
 import { GetStaticProps } from "next";
