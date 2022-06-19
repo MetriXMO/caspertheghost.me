@@ -1,5 +1,4 @@
 import { Project } from "types/Project";
-const url = "https://github.com/dev-caspertheghost";
 
 const VIEW_CODE = "View the paper";
 const OPEN_PROJECT = "Download the paper";
