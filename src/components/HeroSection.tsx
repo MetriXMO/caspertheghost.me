@@ -23,7 +23,7 @@ export const HeroSection = () => {
       </div>
 
       <p className="max-w-3xl mt-8 text-neutral-800 dark:text-gray-300 md:text-xl">
-        I am an extremely very motivated programmer and student from Belgium. {"I'm"} a self-taught
+        I am an extremely motivated programmer and student from Belgium. {"I'm"} a self-taught
         developer and have been programming for {formatDistanceToNow(started)} and {"I'm"} still
         learning new technologies every week, mostly focusing on frontend related technologies.{" "}
         <Link href="/about">
