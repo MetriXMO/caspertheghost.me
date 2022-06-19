@@ -28,7 +28,7 @@ const links = [
   {
    name: "Awards and Sponsors",
     href: "/awards"
-  }
+  },
   {
     name: "Contact",
     href: "/#contact",
