@@ -1,6 +1,6 @@
 import * as React from "react";
 import { useRouter } from "next/router";
-import { Github, Linkedin, List, Twitter, X } from "react-bootstrap-icons";
+import { Aops, Linkedin, List, Twitter, X } from "react-bootstrap-icons";
 import classNames from "clsx";
 import { useViewport } from "lib/hooks/useViewport";
 import { useActiveNavItem } from "lib/hooks/useActiveNavItem";
@@ -115,21 +115,13 @@ export function Nav() {
         </ul>
 
         <ul className="flex items-center h-full space-x-1">
+          
           <li>
-            <IconLink aria-label="Linkedin profile" href="https://linkedin.com/in/casper-iversen">
-              <Linkedin />
+            <IconLink aria-label="Aops profile" href="https://gcurvature.vercel.app">
+              <Aops/>
             </IconLink>
           </li>
-          <li>
-            <IconLink aria-label="GitHub profile" href="https://github.com/dev-caspertheghost">
-              <Github />
-            </IconLink>
-          </li>
-          <li>
-            <IconLink aria-label="Twitter profile" href="https://twitter.com/casper124578">
-              <Twitter />
-            </IconLink>
-          </li>
+         
           <li>
             <ThemeSwitcher />
           </li>
