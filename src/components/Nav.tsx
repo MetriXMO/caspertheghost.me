@@ -26,6 +26,10 @@ const links = [
     href: "/gimo2021",
   },
   {
+   name: "Awards and Sponsors",
+    href: "/awards"
+  }
+  {
     name: "Contact",
     href: "/#contact",
   },
