@@ -30,14 +30,7 @@ const links = [
     href: "/#contact",
   },
  
-  {
-    name: "Blog",
-    href: "/blog",
-  },
-  {
-    name: "Code Snippets",
-    href: "/snippets",
-  },
+
 ];
 
 export function Nav() {
