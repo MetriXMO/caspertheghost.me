@@ -27,19 +27,10 @@ export default function About({ timelineData }: { timelineData: TimelineItem[] }
 
         <div className="max-w-3xl mt-5 text-neutral-800 dark:text-gray-200">
           <p>
-            Hello, I am Casper! {"I'm"} a 
-            -year-old programmer and student based in Belgium. I adore some building accessible,
-            responsive and fast code. Furthermore, {"I'm"} also a big fan of open-source, I
-            contribute to open-source as much as I can, I also have{" "}
-            <a
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-black dark:text-white underline"
-              href="https://github.com/dev-caspertheghost?tab=repositories"
-            >
-              many open-source projects
-            </a>
-            .
+            GIMO is an International Mathematical Olympiad Style mathematical contest held online
+            for individuals. It is similar to the IMO format except that here the contest will be individual based rather than team based and it will be untimed.
+            You will be given nearly twelve days to work out with six problems and you have to submit them within that time interval. 
+           
           </p>
           <p className="mt-5">
             I have been developing web applications, Discord bots and npm packages for{" "}
