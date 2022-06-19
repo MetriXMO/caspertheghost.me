@@ -14,8 +14,8 @@ const links = [
     href: "/",
   },
   {
-    name: "Projects",
-    href: "/#projects",
+    name: "GIMO 2021",
+    href: "/gimo2021",
   },
   {
     name: "Contact",
