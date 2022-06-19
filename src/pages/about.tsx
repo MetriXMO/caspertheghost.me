@@ -1,17 +1,15 @@
 import { NextSeo } from "next-seo";
 import Link from "next/link";
-import formatDistanceToNow from "date-fns/formatDistanceToNow";
+
 import { Layout } from "components/Layout";
 import { GetStaticProps } from "next";
 import { TimelineItem } from "types/Timeline";
 import { Timeline } from "components/timeline/Timeline";
 
-const pageTitle = "About - Casper Iversen";
-const pageDescription = "Get to know more about me and some of my accomplishments.";
+const pageTitle = "About - GIMO";
+const pageDescription = "Get to know more about gimo";
 
-export default function About({ timelineData }: { timelineData: TimelineItem[] }) {
-  // this is roughly the date I started programing according to GitHub 😅!
-  const started = new Date("2019-08-08");
+
 
   return (
     <Layout>
@@ -23,7 +21,7 @@ export default function About({ timelineData }: { timelineData: TimelineItem[] }
       />
 
       <section id="about">
-            <h1 className="section-title">About Me</h1>
+            <h1 className="section-title">Information about the contest and Schedule of the contest</h1>
 
         <div className="max-w-3xl mt-5 text-neutral-800 dark:text-gray-200">
           <p>
@@ -33,23 +31,18 @@ export default function About({ timelineData }: { timelineData: TimelineItem[] }
            
           </p>
           <p className="mt-5">
-            I have been developing web applications, Discord bots and npm packages for{" "}
-            {formatDistanceToNow(started)} and love it! I learn something new almost every day!
-            Currently, {"I'm"} focusing on frontend web development, specifically working with
-            React.js, TypeScript, CSS, HTML and much more!
+            The team which brings out GIMO is the GIMO team which consists of multiple IMO contestants who have
+            won gold, silver, bronze and honourable mentions in IMO for their country, some who are going to partcipate 
+            in IMO this year representing their country, MOP ers, USA(J)MO qualifiers and math enthusiasts.
           </p>
           <p className="mt-5">
             When {"I'm"} not programming or in school, I enjoy going mountain biking. I also love
             skiing!
           </p>
-          <p className="mt-5 text-base italic">
-            PS: If there is something that {"you'd"} like to know more about me, {"don't"} hesitate
-            to{" "}
-            <Link href="/#contact">
-              <a className="underline">contact me</a>
-            </Link>
-            !
-          </p>
+          <h className="section-title">
+           GIMO Schedule
+          </h>
+          <p className="mt-5">The contest will be tentatively held on August last week or september first week.</p>
         </div>
       </section>
 
