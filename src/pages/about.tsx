@@ -11,7 +11,7 @@ const pageDescription = "Get to know more about me and some of my accomplishment
 
 export default function About({ timelineData }: { timelineData: TimelineItem[] }) {
   // this is roughly the date I started programing according to GitHub 😅!
-  const started = new Date("2019-08-08");
+
 
   return (
     <Layout>
