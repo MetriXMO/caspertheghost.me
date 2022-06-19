@@ -3,7 +3,7 @@ import { NextSeo } from "next-seo";
 
 import { Layout } from "components/Layout";
 import { GetStaticProps } from "next";
-import { TimelineItem } from "types/Timeline";
+
 
 
 const pageTitle = "About - GIMO";
