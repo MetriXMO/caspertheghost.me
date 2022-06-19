@@ -15,7 +15,7 @@ export const HeroSection = () => {
           Hello! I am
         </h4>
         <h1 className="text-5xl font-bold sm:text-6xl md:text-7xl lg:text-8xl">
-        GIMO<span className="hidden xs:inline"> 2022</span>,
+     Casper<span className="hidden xs:inline"> Iversion</span>,
         </h1>
         <h2 className="mt-2 text-4xl font-medium sm:mt-5 sm:text-4xl md:text-5xl lg:text-6xl">
           and {"I'm"} a web developer.
@@ -23,7 +23,7 @@ export const HeroSection = () => {
       </div>
 
       <p className="max-w-3xl mt-8 text-neutral-800 dark:text-gray-300 md:text-xl">
-        I am an extremely motivated programmer and student from Belgium. {"I'm"} a self-taught
+        I am an extremely very motivated programmer and student from Belgium. {"I'm"} a self-taught
         developer and have been programming for {formatDistanceToNow(started)} and {"I'm"} still
         learning new technologies every week, mostly focusing on frontend related technologies.{" "}
         <Link href="/about">
