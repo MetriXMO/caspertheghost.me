@@ -1,6 +1,6 @@
 import { NextSeo } from "next-seo";
 import Link from "next/link";
-import formatDistanceToNow from "date-fns/formatDistanceToNow";
+
 import { Layout } from "components/Layout";
 import { GetStaticProps } from "next";
 import { TimelineItem } from "types/Timeline";
@@ -36,7 +36,7 @@ export default function About({ timelineData }: { timelineData: TimelineItem[] }
           </p>
           <p className="mt-5">
             I have been developing web applications, Discord bots and npm packages for{" "}
-            {formatDistanceToNow(started)} and love it! I learn something new almost every day!
+             and love it! I learn something new almost every day!
             Currently, {"I'm"} focusing on frontend web development, specifically working with
             React.js, TypeScript, CSS, HTML and much more!
           </p>
