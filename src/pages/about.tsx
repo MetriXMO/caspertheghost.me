@@ -1,5 +1,4 @@
 
-import { Age } from "components/Age";
 import { Layout } from "components/Layout";
 import { GetStaticProps } from "next";
 import { TimelineItem } from "types/Timeline";
