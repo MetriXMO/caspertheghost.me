@@ -35,17 +35,23 @@ const pageDescription = "Get to know more about gimo";
             won gold, silver, bronze and honourable mentions in IMO for their country, some who are going to partcipate 
             in IMO this year representing their country, MOP ers, USA(J)MO qualifiers and math enthusiasts.
           </p>
+           <p className="mt-5">
+            I have been developing web applications, Discord bots and npm packages for{" "}
+            and love it! I learn something new almost every day!
+            Currently, {"I'm"} focusing on frontend web development, specifically working with
+            React.js, TypeScript, CSS, HTML and much more!
+          </p>
           <p className="mt-5">
             When {"I'm"} not programming or in school, I enjoy going mountain biking. I also love
             skiing!
           </p>
-          <h className="section-title">
-           GIMO Schedule
-          </h>
-          <p className="mt-5">The contest will be tentatively held on August last week or september first week.</p>
+          <p className="mt-5 text-base italic">
+            PS: If there is something that {"you'd"} like to know more about me, {"don't"} hesitate
+            to{" "}
+           
+    </p>
         </div>
       </section>
-
       <section className="mt-10" id="timeline">
         <h1 className="section-title">Timeline</h1>
 
