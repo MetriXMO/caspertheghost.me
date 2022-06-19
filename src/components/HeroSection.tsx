@@ -2,7 +2,6 @@ import Link from "next/link";
 
 export const HeroSection = () => {
   // this is roughly the date I started programing according to GitHub 😅!
-  const started = new Date("2019-08-08");
 
   return (
     <section className="flex flex-col justify-center mx-auto min-h-[40em]" id="top">
