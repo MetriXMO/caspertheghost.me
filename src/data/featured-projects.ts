@@ -2,7 +2,7 @@ import { Project } from "types/Project";
 
 const VIEW_CODE = "View the paper";
 const OPEN_PROJECT = "Download the paper";
-const VIEW_CASE_STUDY = "View case study";
+
 
 export const projects: Project[] = [
   {
