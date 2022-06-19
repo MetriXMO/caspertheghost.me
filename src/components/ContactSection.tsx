@@ -24,9 +24,9 @@ export const ContactSection = () => {
   const [setState] = React.useState<State | null>(null);
 
   const {
-    register,
-    handleSubmit,
-    formState: { errors },
+   
+    
+    
     reset,
   } = useForm({ defaultValues: initialValues, resolver: yupResolver(schema) });
 
