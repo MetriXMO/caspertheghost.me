@@ -1,5 +1,5 @@
 import { NextSeo } from "next-seo";
-import Link from "next/link";
+
 
 import { Layout } from "components/Layout";
 import { GetStaticProps } from "next";
@@ -32,27 +32,22 @@ export default function About({ timelineData }: { timelineData: TimelineItem[] }
             You will be given nearly twelve days to work out with six problems and you have to submit them within that time interval. 
            
           </p>
+         
           
+          <p className="mt-5">
+            <br></br> The <b>team</b> which brings out GIMO is the GIMO team which consists of multiple IMO contestants who have
+            won gold, silver, bronze and honourable mentions in IMO for their country, some who are going to partcipate 
+            in IMO this year representing their country, MOP ers, USA(J)MO qualifiers and math enthusiasts.
+            Here yTo know more, check the about page.
+          </p>
+          
+           <br></br>
             <h1 className="section-title">GIMO Schedule</h1>
           
           <p className="mt-5">
-            I have been developing web applications, Discord bots and npm packages for{" "}
-             and love it! I learn something new almost every day!
-            Currently, {"I'm"} focusing on frontend web development, specifically working with
-            React.js, TypeScript, CSS, HTML and much more!
+           The contest will be tentatively held on August last week or september first week.
           </p>
-          <p className="mt-5">
-            When {"I'm"} not programming or in school, I enjoy going mountain biking. I also love
-            skiing!
-          </p>
-          <p className="mt-5 text-base italic">
-            PS: If there is something that {"you'd"} like to know more about me, {"don't"} hesitate
-            to{" "}
-            <Link href="/#contact">
-              <a className="underline">contact me</a>
-            </Link>
-            !
-          </p>
+        
         </div>
       </section>
 
