@@ -2,7 +2,7 @@ export const myBackpack: [string, string[]][] = [
   [
     "Team Members",
     [
-      "<div className="max-w-3xl mt-8 text-neutral-800 dark:text-gray-300 md:text-[#228cff]" Kaixin Wang, Canada</div>",
+      "<div className="max-w-3xl mt-8 text-neutral-800 dark:text-gray-300 md:text-[#228cff]"> Kaixin Wang, Canada</div>",
       "Agamjeet Singh, India",
       "Bora Olmez, Switzerland",
       "Atul Nadig, India",
