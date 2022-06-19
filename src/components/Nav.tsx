@@ -1,6 +1,6 @@
 import * as React from "react";
 import { useRouter } from "next/router";
-import { Aops,  List,  X } from "react-bootstrap-icons";
+import { Github,  List,  X } from "react-bootstrap-icons";
 import classNames from "clsx";
 import { useViewport } from "lib/hooks/useViewport";
 import { useActiveNavItem } from "lib/hooks/useActiveNavItem";
@@ -118,7 +118,7 @@ export function Nav() {
           
           <li>
             <IconLink aria-label="Aops profile" href="https://gcurvature.vercel.app">
-              <Aops/>
+              <Github/>
             </IconLink>
           </li>
          
