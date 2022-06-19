@@ -6,8 +6,8 @@ import { GetStaticProps } from "next";
 import { TimelineItem } from "types/Timeline";
 import { Timeline } from "components/timeline/Timeline";
 
-const pageTitle = "About - Casper Iversen";
-const pageDescription = "Get to know more about me and some of my accomplishments.";
+const pageTitle = "About - GIMO";
+const pageDescription = "Get to know more about GIMO";
 
 export default function About({ timelineData }: { timelineData: TimelineItem[] }) {
   // this is roughly the date I started programing according to GitHub 😅!
@@ -17,7 +17,7 @@ export default function About({ timelineData }: { timelineData: TimelineItem[] }
     <Layout>
       <NextSeo
         openGraph={{ title: pageTitle, description: pageDescription }}
-        canonical="https://caspertheghost.me/about"
+        canonical="https://hellogimo.vercel.app/about"
         title={pageTitle}
         description={pageDescription}
       />
