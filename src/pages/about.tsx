@@ -1,7 +1,6 @@
 import { NextSeo } from "next-seo";
 import Link from "next/link";
 import formatDistanceToNow from "date-fns/formatDistanceToNow";
-import { Age } from "components/Age";
 import { Layout } from "components/Layout";
 import { GetStaticProps } from "next";
 import { TimelineItem } from "types/Timeline";
@@ -28,19 +27,12 @@ export default function About({ timelineData }: { timelineData: TimelineItem[] }
 
         <div className="max-w-3xl mt-5 text-neutral-800 dark:text-gray-200">
           <p>
-            Hello, I am Casper! {"I'm"} a <Age />
+            Hello, I am Casper! {"I'm"} a 
             -year-old programmer and student based in Belgium. I adore building accessible,
             responsive and fast code. Furthermore, {"I'm"} also a big fan of open-source, I
             contribute to open-source as much as I can, I also have{" "}
-            <a
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-black dark:text-white underline"
-              href="https://github.com/dev-caspertheghost?tab=repositories"
-            >
-              many open-source projects
-            </a>
-            .
+        
+           
           </p>
           <p className="mt-5">
             I have been developing web applications, Discord bots and npm packages for{" "}
