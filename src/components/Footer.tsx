@@ -15,15 +15,4 @@ export const Footer = () => {
   );
 };
 
-interface FooterLinkProps {
-  href: string;
-  children: string;
-}
 
-function FooterLink({ children, href }: FooterLinkProps) {
-  return (
-    <a className="underline" target="_blank" rel="noreferrer noopener" href={href}>
-      {children}
-    </a>
-  );
-}
