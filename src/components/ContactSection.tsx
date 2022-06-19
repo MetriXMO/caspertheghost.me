@@ -58,43 +58,7 @@ export const ContactSection = () => {
 
   return (
     <section className="pb-5 mt-10" id="contact">
-      <h1 className="text-3xl font-bold capitalize md:text-4xl">Contact Me</h1>
-
-      <form onSubmit={handleSubmit(onSubmit)} className="mt-3">
-        {message && state === "completed" ? (
-          <p className="p-2 px-3 mb-3 rounded-md bg-gray-200 shadow-sm dark:bg-blue-2">{message}</p>
-        ) : null}
-
-        <FormField errorMessage={errors.name} id="name" label="Name">
-          <Input
-            hasError={!!errors.name}
-            {...register("name", { required: true, disabled: state === "loading" })}
-          />
-        </FormField>
-
-        <FormField errorMessage={errors.email} id="email" label="Email">
-          <Input
-            hasError={!!errors.email}
-            {...register("email", { required: true, disabled: state === "loading" })}
-          />
-        </FormField>
-
-        <FormField errorMessage={errors.message} className="mb-0" id="message" label="Message">
-          <Textarea
-            hasError={!!errors.message}
-            {...register("message", { required: true, disabled: state === "loading" })}
-          />
-        </FormField>
-
-        <div className="flex items-start justify-between mt-6">
-          <a className="italic underline" href="mailto:casper.iversen2@gmail.com">
-            Send me an email directly
-          </a>
-          <Button disabled={state === "loading"} type="submit">
-            {state === "loading" ? "Submitting..." : "Submit"}
-          </Button>
-        </div>
-      </form>
+     
     </section>
   );
 };
