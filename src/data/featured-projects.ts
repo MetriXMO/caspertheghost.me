@@ -7,12 +7,12 @@ const VIEW_CASE_STUDY = "View case study";
 
 export const projects: Project[] = [
   {
-    title: "SnailyCAD",
+    title: "GIMO 2021  Day 1",
     description:
-      "An open source, web-based Computer Aided Dispatch (CAD) for communities who love police roleplaying and dispatching. Adored by many communities.",
+      "Check the GIMO 2021 Day 1 Paper here.",
     buttons: [
       {
-        url: "https://github.com/SnailyCAD/snaily-cadv4",
+        url: "https://drive.google.com/file/d/1-toKPHPI55iJpYDbXcU2h5rK__lVC5lV/view",
         name: VIEW_CODE,
       },
       {
