@@ -7,7 +7,7 @@ export const HeroSection = () => {
     <section className="flex flex-col justify-center mx-auto min-h-[40em]" id="top">
       <div>
         <h1 className="text-5xl font-bold sm:text-6xl md:text-7xl lg:text-8xl">
-          GIMO<span className="hidden xs:inline">2022</span>,
+          GIMO <span className="hidden xs:inline">2022</span>
         </h1>
         <h2 className="mt-2 text-4xl font-medium sm:mt-5 sm:text-4xl md:text-5xl lg:text-6xl">
           Online Math Conest, Year 2
