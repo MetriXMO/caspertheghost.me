@@ -35,7 +35,7 @@ export default function About({ timelineData }: { timelineData: TimelineItem[] }
          
           
           <p className="mt-5">
-            <br></br> The <b>team</b> which brings out GIMO is the GIMO team which consists of multiple IMO contestants who have
+          The <b>team</b> which brings out GIMO is the GIMO team which consists of multiple IMO contestants who have
             won gold, silver, bronze and honourable mentions in IMO for their country, some who are going to partcipate 
             in IMO this year representing their country, MOP ers, USA(J)MO qualifiers and math enthusiasts.
             Here yTo know more, check the about page.
