@@ -4,7 +4,7 @@ import { NextSeo } from "next-seo";
 import { Layout } from "components/Layout";
 import { GetStaticProps } from "next";
 import { TimelineItem } from "types/Timeline";
-import { Timeline } from "components/timeline/Timeline";
+
 
 const pageTitle = "About - GIMO";
 const pageDescription = "Get to know more about GIMO";
