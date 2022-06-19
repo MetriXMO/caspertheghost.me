@@ -21,7 +21,7 @@ const schema = yup.object().shape({
 type State = "loading" | "completed" | "error";
 export const ContactSection = () => {
 
-  const [state, setState] = React.useState<State | null>(null);
+  const [setState] = React.useState<State | null>(null);
 
   const {
     register,
