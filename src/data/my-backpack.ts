@@ -1,6 +1,6 @@
 export const myBackpack: [string, string[]][] = [
   [
-    "Team Members",
+    "",
     [
       "Kaixin Wang, Canada",
       "Agamjeet Singh, India",
