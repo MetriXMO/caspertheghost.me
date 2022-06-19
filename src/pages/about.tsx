@@ -2,14 +2,11 @@ import { NextSeo } from "next-seo";
 
 
 import { Layout } from "components/Layout";
-import { GetStaticProps } from "next";
-import { TimelineItem } from "types/Timeline";
-import { Timeline } from "components/timeline/Timeline";
 
 const pageTitle = "About - GIMO";
 const pageDescription = "Get to know more about GIMO";
 
-export default function About({ timelineData }: { timelineData: TimelineItem[] }) {
+
   // this is roughly the date I started programing according to GitHub 😅!
 
 
@@ -49,23 +46,13 @@ export default function About({ timelineData }: { timelineData: TimelineItem[] }
           </p>
         
         </div>
-      </section>
+    
 
-      <section className="mt-10" id="timeline">
-        <h1 className="section-title">Timeline</h1>
-
-        <Timeline timelineData={timelineData} />
       </section>
     </Layout>
   );
 }
 
-export const getStaticProps: GetStaticProps = async () => {
-  const timelineData = await (await import("../data/timeline")).timeline;
 
-  return {
-    props: {
-      timelineData,
-    },
-  };
+
 };
