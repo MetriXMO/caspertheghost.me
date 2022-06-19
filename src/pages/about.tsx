@@ -2,8 +2,6 @@
 import { GetStaticProps } from "next";
 
 
-const pageTitle = "About - GIMO";
-const pageDescription = "About GIMO";
 
 
 
