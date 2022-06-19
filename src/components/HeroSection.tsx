@@ -1,5 +1,4 @@
 import Link from "next/link";
-import formatDistanceToNow from "date-fns/formatDistanceToNow";
 
 export const HeroSection = () => {
   // this is roughly the date I started programing according to GitHub 😅!
