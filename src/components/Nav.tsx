@@ -13,7 +13,15 @@ const links = [
     name: "Home",
     href: "/",
   },
+   {
+    name: "About",
+    href: "/about",
+  },
   {
+    name: "Team",
+    href: "/team",
+  },
+   {
     name: "GIMO 2021",
     href: "/gimo2021",
   },
@@ -21,10 +29,7 @@ const links = [
     name: "Contact",
     href: "/#contact",
   },
-  {
-    name: "About",
-    href: "/about",
-  },
+ 
   {
     name: "Blog",
     href: "/blog",
