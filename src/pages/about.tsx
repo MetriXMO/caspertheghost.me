@@ -9,7 +9,7 @@ import { TimelineItem } from "types/Timeline";
 const pageTitle = "About - GIMO";
 const pageDescription = "Get to know more about GIMO";
 
-export default function About({ timelineData }: { timelineData: TimelineItem[] }) {
+export default function About() {
   // this is roughly the date I started programing according to GitHub 😅!
 
 
