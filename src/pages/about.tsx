@@ -51,11 +51,11 @@ export default function About({ timelineData }: { timelineData: TimelineItem[] }
         </div>
       </section>
 
-      <section className="mt-10" id="timeline">
-        <h1 className="section-title">Timeline</h1>
+      
+       
 
-        <Timeline timelineData={timelineData} />
-      </section>
+      
+   
     </Layout>
   );
 }
