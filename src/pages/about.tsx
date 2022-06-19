@@ -2,11 +2,14 @@ import { NextSeo } from "next-seo";
 
 
 import { Layout } from "components/Layout";
+import { GetStaticProps } from "next";
+import { TimelineItem } from "types/Timeline";
+import { Timeline } from "components/timeline/Timeline";
 
 const pageTitle = "About - GIMO";
 const pageDescription = "Get to know more about GIMO";
 
-
+export default function About({ timelineData }: { timelineData: TimelineItem[] }) {
   // this is roughly the date I started programing according to GitHub 😅!
 
 
@@ -29,7 +32,7 @@ const pageDescription = "Get to know more about GIMO";
             You will be given nearly twelve days to work out with six problems and you have to submit them within that time interval. 
            
           </p>
-         
+                   
           
           <p className="mt-5">
           The <b>team</b> which brings out GIMO is the GIMO team which consists of multiple IMO contestants who have
@@ -46,13 +49,23 @@ const pageDescription = "Get to know more about GIMO";
           </p>
         
         </div>
-    
+      </section>
 
+      <section className="mt-10" id="timeline">
+        <h1 className="section-title">Timeline</h1>
+
+        <Timeline timelineData={timelineData} />
       </section>
     </Layout>
   );
 }
 
+export const getStaticProps: GetStaticProps = async () => {
+  const timelineData = await (await import("../data/timeline")).timeline;
 
-
+  return {
+    props: {
+      timelineData,
+    },
+  };
 };
