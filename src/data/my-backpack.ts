@@ -9,10 +9,10 @@ export const myBackpack: [string, string[]][] = [
       "Fedir Yudin, Ukraine",
       "Andrei Chirita, Romania",
       "Tiger Zhang, USA",
-      "Archit Manas, India"
-      "Vivian Loh, USA"
-      "Samarth, India"
-      "Ryan Shin, USA"
+      "Archit Manas, India",
+      "Vivian Loh, USA",
+      "Samarth, India",
+      "Ryan Shin, USA",
       "player_01"
       
     ],
