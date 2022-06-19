@@ -23,7 +23,7 @@ export default function About() {
       />
 
       <section id="about">
-        <h1 className="section-title">About Me</h1>
+        <h1 className="section-title">Information and Schedule of GIMO 2022</h1>
 
         <div className="max-w-3xl mt-5 text-neutral-800 dark:text-gray-200">
           <p>
