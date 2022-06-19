@@ -30,8 +30,7 @@ export const ContactSection = () => {
     reset,
   } = useForm({ defaultValues: initialValues, resolver: yupResolver(schema) });
 
-  async function onSubmit(data: typeof initialValues) {
-    setState("loading");
+  
 
     const res = await fetch("/api/mail", {
       method: "POST",
