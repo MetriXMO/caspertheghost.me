@@ -1,5 +1,5 @@
 export const HeroSection = () => {
-  // this is roughly the date I started programing according to GitHub 😅!
+  // this is roughly the date I started programing according to GitHub 😅
 
   return (
     <section className="flex flex-col justify-center mx-auto min-h-[40em]" id="top">
