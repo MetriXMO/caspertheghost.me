@@ -4,7 +4,7 @@ export const MyBackpackSection = ({ myBackpack }: { myBackpack: [string, string[
       <h1 className="section-title">GIMO 2022 Team</h1>
 
       <p className="my-4 text-neutral-800 dark:text-gray-300">
-       The team consists of <b>multiple IMO contestants</b> who have won <b className="max-w-3xl mt-8 text-neutral-800 dark:text-[#228cff] md:text-gray-300">
+       The team consists of <b>multiple IMO contestants</b> who have won <b className="max-w-3xl mt-8 text-neutral-800 dark:text-[#228cff] md:text-[#262627]">
   gold, silver and bronze</b> in IMO,
         some who are going to <b>partcipate in IMO this year</b> representing their country, <b className="max-w-3xl mt-8 text-neutral-800 dark:text-[#228cff] md:text-[#228cff]">MOP qualifiers</b>, <b className="max-w-3xl mt-8 text-neutral-800 dark:text-[#228cff] md:text-[#228cff]">USA(J)MO qualifiers</b> and <b className="max-w-3xl mt-8 text-neutral-800 dark:text-[#228cff] md:text-[#228cff]">math enthusisats</b>.
       </p>
