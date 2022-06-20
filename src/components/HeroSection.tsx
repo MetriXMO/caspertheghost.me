@@ -13,7 +13,7 @@ export const HeroSection = () => {
       </div>
 
       <p className="max-w-3xl mt-8 text-neutral-800 dark:text-gray-300 md:text-xl">
-        GIMO is an International Mathematical Olympiad style mathematical contest held online every year for individuals. It is organised by the <b>GIMO team</b> which <b>consists</b> of <b>multiple IMO contestants</b> who have won <b className="max-w-3xl mt-8 text-neutral-800 dark:text-[#14deb9] md:text-[#228cff]">
+        GIMO is an International Mathematical Olympiad style mathematical contest held online every year for individuals. It is organised by the <b>GIMO team</b> which <b>consists</b> of <b>multiple IMO contestants</b> who have won <b className="max-w-3xl mt-8 text-neutral-800 dark:text-[#14deb9] md:text-gray-300">
   gold, silver and bronze</b> in IMO,
         some who are going to <b>partcipate in IMO this year</b> representing their country, <b>MOP qualifiers</b>, <b>USA(J)MO qualifiers</b> and <b>math enthusisats</b>. Here you will be given nearly ten  days to work out with six problems and you have submit them within that time interval. To know more, check the about page. 
       
