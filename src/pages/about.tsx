@@ -57,7 +57,7 @@ export default function About() {
 to participants because on AoPS PM you are allowed to send solutions one by one in that single PM, however you are not allowed so for the other two processes. But obviously you can send day 1
 and day 2 separately. <br></br>
           </p>
-            <p><b className="max-w-3xl mt-8 text-neutral-800 dark:text-[#14deb9] md:text-[#262627]">Submission Process II.</b> For submitting Day I Solutions please upload solutions in the following link:
+            <p><b className="max-w-3xl mt-8 text-neutral-800 dark:text-[#14deb9] md:text-[#262627]">Submission Process II.</b> For submitting  solutions, please upload solutions in the following link:
           </p>   <br></br>
          <p>   <b className="max-w-3xl mt-8 text-neutral-800 dark:text-[#14deb9] md:text-[#262627]">Submission Process III.</b> If you are unable to do any of the things above then just simply mail your
 solutions pdf to us on our mail <b className="max-w-3xl mt-8 text-neutral-800 dark:text-[#14deb9] md:text-[#262627]">gaussiancurv180@gmail.com</b></p>
