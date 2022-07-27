@@ -33,13 +33,24 @@ export default function About() {
            
           </p>
                    
+          <p>
+       In case you are confused with the format: </p>
+          <br></br>
+<p> Each problem is worth 7 points so you can score at most 42 points. Please use wisely the time we gave to workout with the problems.
+  Contest Format is individual and <b>detailed schedule</b> is provided below and on the PDF. </p>
+          <p>Submission Process</p><br></br>
           
-          <p className="mt-5">
-          The <b>team</b> which brings out GIMO is the GIMO team which consists of multiple IMO contestants who have
-            won <b className="max-w-3xl mt-8 text-neutral-800 dark:text-gray-300 md:text-[#228cff]">gold, silver, bronze</b> and honourable mentions in IMO for their country, some who are going to partcipate 
-            in IMO this year representing their country, MOP ers, USA(J)MO qualifiers and math enthusiasts.
-            Here yTo know more, check the about page.
-          </p>
+          <p> 
+            <b>Submission Process I.</b> You can submit your solutions on AoPS PM to <b className="max-w-3xl mt-8 text-neutral-800 dark:text-[#14deb9] md:text-[#262627]">Aritra/Aritra 12</b> on AoPS  if you have an account at AoPS. This is the most preferred way of submission and it is also beneficial
+to participants because on AoPS PM you are allowed to send solutions one by one in that single PM, however you are not allowed so for the other two processes. But obviously you can send day 1
+and day 2 separately. <br></br>
+
+            <b className="max-w-3xl mt-8 text-neutral-800 dark:text-[#14deb9] md:text-[#262627]">Submission Process II.</b> For submitting Day I Solutions please upload solutions in the following link:
+            <br></br>
+            <b className="max-w-3xl mt-8 text-neutral-800 dark:text-[#14deb9] md:text-[#262627]">Submission Process III.</b> If you are unable to do any of the things above then just simply mail your
+solutions pdf to us on our mail <b className="max-w-3xl mt-8 text-neutral-800 dark:text-[#14deb9] md:text-[#262627]">gaussiancurv180@gmail.com</b>
+
+Submit you solutions through the form given in pdf below. There are other ways of submission too which you can find in the pdf.</p>
           
            <br></br>
             <h1 className="section-title">GIMO Schedule</h1>
