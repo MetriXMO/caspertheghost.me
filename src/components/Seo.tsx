@@ -50,8 +50,8 @@ export const Seo = (props: Props) => {
         <>
           <meta property="article:published_time" content={tags.date} />
           <meta name="publish_date" property="og:publish_date" content={tags.date} />
-          <meta name="author" property="article:author" content="Casper Iversen" />
-          <meta name="authors" content="Casper Iversen" />
+          <meta name="author" property="article:author" content="GIMO" />
+          <meta name="authors" content="GIMO" />
           <meta name="created" content={tags.date} />
         </>
       ) : null}
