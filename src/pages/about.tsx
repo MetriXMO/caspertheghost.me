@@ -50,7 +50,7 @@ export default function About() {
         
           
           
-       <h1 className="section-title"GIMO Submission Process</h1>
+       <h1 className="section-title">GIMO Submission Process</h1>
           
           <p> 
             <b>Submission Process I.</b> You can submit your solutions on AoPS PM to <b className="max-w-3xl mt-8 text-neutral-800 dark:text-[#14deb9] md:text-[#262627]">Aritra/Aritra 12</b> on AoPS  if you have an account at AoPS. This is the most preferred way of submission and it is also beneficial
