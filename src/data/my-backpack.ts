@@ -18,9 +18,9 @@ export const myBackpack: [string, string[]][] = [
       
     ],
   ],
-  [" ", ["Papon Lapate, Thailand", "Aritra Mondal, India", "Gabriel, Singapore", 
+  ["", ["Papon Lapate, Thailand", "Aritra Mondal, India", "Gabriel, Singapore", 
               ,"Behanorm", "Arkan Manva, India" , "Vlad Spataru, Romania" , "Vedant Saini, India" ,
                "Mattedy" ,"Valentino Iversion, Indonesia" ,"Anand, India" ,"NJOY, India" ,"Sunaina Pati, India" ]],
   
-  [" ", ["Orestis Lignos, Greece", "Jimin Kim, Korea","Evan Chang, USA", "Krishna Prothapragada, USA", "k12byda5h, Thailand","mela_20-15, Greece", "Andre Luis, Bolivia", "navi_09220114, Malaysia", "Justin Lee, USA", "Rafael Yanto", "Miquel-point", "player_01"]],
+  ["", ["Orestis Lignos, Greece", "Jimin Kim, Korea","Evan Chang, USA", "Krishna Prothapragada, USA", "k12byda5h, Thailand","mela_20-15, Greece", "Andre Luis, Bolivia", "navi_09220114, Malaysia", "Justin Lee, USA", "Rafael Yanto", "Miquel-point", "player_01"]],
 ];
