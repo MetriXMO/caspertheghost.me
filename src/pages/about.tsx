@@ -32,14 +32,10 @@ export default function About() {
             You will be given nearly twelve days to work out with six problems and you have to submit them within that time interval. 
             <br></br><br></br>
 The full form of GIMO chnages every year, last year it was called the Gaussian International Mathematical Olympiad.            
-           
-          </p>
-                   
-          <p>
+ 
        In case you are confused with the format: </p>
           <br></br>
-<p> Each problem is worth 7 points so you can score at most 42 points. Please use wisely the time we gave to workout with the problems.
-  Contest Format is individual and <b>detailed schedule</b> is provided below and on the PDF. </p>
+<p> The paper will contain 6 subjective problems in total and it will be relased in two day with three problem each on the both days. Each problem is worth 7 points so you can score at most 42 points. Please use wisely the time we gave to workout with the problems. This goes mostly ignored, but no diagram in a geometry problem will result in loss of 1 point.  Contest Format is individual and <b>detailed schedule</b> is provided below or you can go through the PDF. </p>
           
           
           
