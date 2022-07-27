@@ -27,9 +27,11 @@ export default function About() {
 
         <div className="max-w-3xl mt-5 text-neutral-800 dark:text-gray-200">
           <p>
-            GIMO is an International Mathematical Olympiad Style mathematical contest held online
-            for individuals. It is similar to the IMO format except that here the contest will be individual based rather than team based and it will be untimed.
+            GIMO is an <b  className="max-w-3xl mt-8 text-neutral-800 dark:text-[#14deb9] md:text-[#262627]">International Mathematical Olympiad Style</b> mathematical contest held online
+            for individuals. It is similar to the IMO format except that here the contest will be <b  className="max-w-3xl mt-8 text-neutral-800 dark:text-[#14deb9] md:text-[#262627]">individual based</b> rather than team based and it will be untimed.
             You will be given nearly twelve days to work out with six problems and you have to submit them within that time interval. 
+            <br></br><br></br>
+The full form of GIMO chnages every year, last year it was called the Gaussian International Mathematical Olympiad.            
            
           </p>
                    
@@ -45,7 +47,7 @@ export default function About() {
             <h1 className="section-title">GIMO Schedule</h1>
           
           <p className="mt-5">
-           The contest will be held on 21 th August, 2022 and will end on 1st September, 2022. There is no registration deadline. 
+           The contest will be held on <b  className="max-w-3xl mt-8 text-neutral-800 dark:text-[#14deb9] md:text-[#262627]">21 th August, 2022 and will end on 1st September, 2022</b>. There is no registration deadline. 
           </p>
         
           
