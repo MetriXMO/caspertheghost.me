@@ -4,7 +4,7 @@ import { GetStaticProps } from "next";
 import { NextSeo } from "next-seo";
 
 const pageTitle = "GIMO Team";
-const pageDescription = "GIMO Team"
+const pageDescription = "GIMO Team";
 
 interface Props {
 
