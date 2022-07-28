@@ -2,7 +2,7 @@ import { Layout } from "components/Layout";
 import { MyBackpackSection } from "components/MyBackpackSection";
 import { GetStaticProps } from "next";
 
-
+const pageTitle = "GIMO Team";
 interface Props {
 
   myBackpack: [string, string[]][];
