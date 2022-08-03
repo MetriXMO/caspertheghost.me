@@ -1,7 +1,35 @@
+import { NextSeo } from "next-seo";
+import { Layout } from "components/Layout";
+
+
+
+const pageTitle = "GIMO Team";
+const pageDescription = "GIMO Team";
+
 export const HeroSection = () => {
   // this is roughly the date I started programing according to GitHub 😅
 
+
+
+
   return (
+
+<Layout>
+      <NextSeo
+        openGraph={{ title: pageTitle, description: pageDescription }}
+        canonical="https://hellogimo.vercel.app/team"
+        title={pageTitle}
+        description={pageDescription}
+      />
+     
+     
+    </Layout>
+
+
+
+
+
+
     <section className="flex flex-col justify-center mx-auto min-h-[40em]" id="top">
       <div>
         <h1 className="text-5xl font-bold sm:text-6xl md:text-7xl lg:text-[#14deb9]">
