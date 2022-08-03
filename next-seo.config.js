@@ -1,8 +1,8 @@
 // @ts-check
 
 const description =
-  "I'm an extremely motivated frontend focused web developer specializing in React.js, TypeScript, JavaScript, CSS, HTML and other frontend focused libraries and frameworks.";
-const title = "Casper Iversen - Web Developer";
+  "GIMO is an International Mathematical Olympiad style mathematical contest held online every year for individuals. It is organized by the GIMO team which consists of multiple IMO contestants who have won gold, silver, bronze and honorable mentions in IMO, MOP qualifiers, USA(J)MO qualifiers and math enthusiasts. ";
+const title = "GIMO - Olympiad Contest";
 
 export const DEFAULT_KEYWORDS = [
   "dev-caspertheghost",
@@ -20,8 +20,8 @@ export const SEO = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://caspertheghost.me",
-    site_name: "caspertheghost.me",
+    url: "https://hellogimo.vercel.app/",
+    site_name: "https://hellogimo.vercel.app/",
     description,
     title,
   },
@@ -30,7 +30,7 @@ export const SEO = {
     site: "@site",
     cardType: "summary",
   },
-  canonical: "https://caspertheghost.me",
+  canonical: "https://hellogimo.vercel.app/",
   defaultTitle: title,
   description,
   additionalMetaTags: [
