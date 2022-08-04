@@ -52,10 +52,10 @@ The full form of GIMO chnages every year, last year it was called the Gaussian I
           
           <p className="mt-5"> 
             <b  className="max-w-3xl mt-8 text-neutral-800 dark:text-[#14deb9] md:text-[#262627]">Submission Process I.</b> You can submit your solutions on AoPS PM to <b className="max-w-3xl mt-8 text-neutral-800 dark:text-[#14deb9] md:text-[#262627]">Aritra/Aritra 12</b> on AoPS  if you have an account at AoPS. This is the most preferred way of submission and it is also beneficial
-to participants because on AoPS PM you are allowed to send solutions one by one in that single PM, however you are not allowed so for the other two processes. But obviously you can send day 1
+to participants because on AoPS PM you are allowed to send solutions one by one in that single PM, however you are not allowed so for the other two processes, although obviously you can send day 1
 and day 2 separately. <br></br>
           </p> <br></br>
-            <p><b className="max-w-3xl mt-8 text-neutral-800 dark:text-[#14deb9] md:text-[#262627]">Submission Process II.</b> For submitting  solutions, please upload solutions in the following link:
+            <p><b className="max-w-3xl mt-8 text-neutral-800 dark:text-[#14deb9] md:text-[#262627]">Submission Process II.</b> For submitting  solutions, please upload solutions in the following link: TBA
           </p>   <br></br>
          <p>   <b className="max-w-3xl mt-8 text-neutral-800 dark:text-[#14deb9] md:text-[#262627]">Submission Process III.</b> If you are unable to do any of the things above then just simply mail your
 solutions pdf to us on our mail <b className="max-w-3xl mt-8 text-neutral-800 dark:text-[#14deb9] md:text-[#262627]">gaussiancurv180@gmail.com</b></p>
