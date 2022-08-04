@@ -29,33 +29,36 @@ export default function awards() {
         <div className="max-w-3xl mt-5 text-neutral-800 dark:text-gray-200">
 
           <p className="mt-5">With the help of our sponsors we are awarding items worth near to $ 4,00,000. Note that, you must personal message us or gmail us at gaussiancurv180@gmail.com to claim your prizes.</p>
+         
+             <h1 className="section-title">Wolfram</h1>
+          
           <p className="mt-5">
-            <b>Wolfram:</b> They are sponsoring Wolfram Alpha Notebook Edition. This will be awarded to top 10 partcipants.
+            They are sponsoring Wolfram Alpha Notebook Edition. This will be awarded to top 10 partcipants.
            
           </p>
-                   
+                    <h1 className="section-title">Taskade</h1>  
              <p className="mt-5">
-            <b>Taskade:</b> They are sponsoring life time upgrades to Taskade Unlimited worth around $ 4000 each. This will be awarded to top 50 partcipants.
+            They are sponsoring life time upgrades to Taskade Unlimited worth around $ 4000 each. This will be awarded to top 50 partcipants.
 Other than that it will be raffled out to the 10 more partcipants who have offcialy registered for the contest and confirm that they are a contestant.
            
           </p>
-          
+             <h1 className="section-title">Interview Cake</h1>
              <p className="mt-5">
-            <b>Interview Cake:</b> They are sponsoring full access licenses so attendees can get access to their full coding interview prep course each worth near to $ 1400. Everyone registering, confirming that they have partcipated in the contest, claiming us in our mail just after the conclusion of the contest will be awarded with this.
+             They are sponsoring full access licenses so attendees can get access to their full coding interview prep course each worth near to $ 1400. Everyone registering, confirming that they have partcipated in the contest, claiming us in our mail just after the conclusion of the contest will be awarded with this.
 
            
           </p>
-          
+                 <h1 className="section-title">BBMC Math</h1>
              <p className="mt-5">
-            <b>BBMC- Math:</b> They are sponsoring two course on olympiad math each worth near $400. One will be awarded to winner in grade 8 or lower section and the other one will be raffled.
+             They are sponsoring two course on olympiad math each worth near $400. One will be awarded to winner in grade 8 or lower section and the other one will be raffled.
            
           </p>
-          
+                 <h1 className="section-title">Desmos</h1>
              <p className="mt-5">
-            <b>Desmos:</b> They are sponsoring the swag pack worth $ 45. This will be awarded only to the winner of the contest.
+             They are sponsoring the swag pack worth $ 45. This will be awarded only to the winner of the contest.
            
           </p>
-          
+                 <h1 className="section-title">Art of Problem Solving(AoPS)</h1>
                <p className="mt-5">
             <b>AoPS:</b> AoPS is sponsoring 4 AoPS gift cards each worth $ 25. Three of them will be awarded to the top 3 winners and the other one will be raffled.
            
@@ -63,11 +66,9 @@ Other than that it will be raffled out to the 10 more partcipants who have offci
           
           
            <br></br>
-            <h1 className="section-title">GIMO Schedule</h1>
+         
           
-          <p className="mt-5">
-           The contest will be tentatively held on August last week or september first week.
-          </p>
+      
         
         </div>
       </section>
