@@ -23,7 +23,10 @@ export const HeroSection = () => {
         <br></br><br></br>
     <b className="max-w-3xl mt-8 text-neutral-800 dark:text-[#14deb9] md:text-[#262627]">Discord Server</b>: <a href="https://discord.gg/RdNHVKhgGP"><b className="max-w-3xl mt-8 text-neutral-800 dark:text-[#0c96f5] md:text-[#0c96f5]">GC Discord Server(https://discord.gg/RdNHVKhgGP)</b></a>
       
+         <br></br><br></br>
+ <b className="max-w-3xl mt-8 text-neutral-800 dark:text-[#14deb9] md:text-[#262627]">Registration Form Link(click the link)</b>: <a href="https://docs.google.com/forms/d/e/1FAIpQLScQPchUfuse9DEJW6PVRr8XBsLdRaJhpMoqdmyl6w8Q4ZFRVw/viewform"><b className="max-w-3xl mt-8 text-neutral-800 dark:text-[#0c96f5] md:text-[#0c96f5]">GIMO 2022 Registration</b></a>
       </p>  
+     
     </section>
   );
 };
